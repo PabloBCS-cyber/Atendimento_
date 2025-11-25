@@ -20,4 +20,4 @@ async function getmoedas() {
     console.error(error);
   }
 }
-getmoedas();
+
